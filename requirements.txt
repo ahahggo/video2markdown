@@ -1,0 +1,4 @@
+paddleocr~=2.7.3
+moviepy~=1.0.3
+vosk~=0.3.45
+openai~=1.30.1
